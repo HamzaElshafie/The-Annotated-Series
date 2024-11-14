@@ -1,4 +1,4 @@
-<img src="./Logo1.jpg" alt="The Annotated Series Logo" style="width:100%; height:290px;">
+<img src="./Logo.jpg" alt="The Annotated Series Logo" style="width:100%; height:290px;">
 
 
 --------------
