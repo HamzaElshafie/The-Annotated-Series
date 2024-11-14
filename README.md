@@ -7,5 +7,5 @@ A curated collection of influential machine learning research papers, this repos
 
 
 <div align="center">
-    <img src="/Di1U.gif" alt="Description of GIF">
+    <img src="/Di1U.gif" alt="Description of GIF style="width:100%; height:290px;">
 </div>
