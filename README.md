@@ -1,2 +1,2 @@
 # The Annotated Series
-![The Annotated Series Logo](./Annotated.png)
+<img src="./Annotated.png" alt="The Annotated Series Logo" style="width:100%;">
